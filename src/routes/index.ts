@@ -1,4 +1,4 @@
 import gtgRouter from './gtgRoute';
-import personRoute from './personRoute';
+import departmentRoute from './departmentRoute';
 
-export {gtgRouter, personRoute };
+export { gtgRouter, departmentRoute };
